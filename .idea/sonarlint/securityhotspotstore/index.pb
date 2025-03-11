@@ -9,3 +9,5 @@ R
 "contracts/offset-verification.clar,2/c/2ce9995d6c6caa02cb96c4556e3a00ab3928689d
 Q
 !tests/offset-verification.test.ts,1/5/15b7b72727fe47d5e605286f31df73188d326898
+F
+contracts/trading.clar,7/e/7e480343699ccc9440a9b0956f23152743eb78b7
