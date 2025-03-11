@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.offset-verification]
+path = 'contracts/offset-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.project-registration]
 path = 'contracts/project-registration.clar'
 clarity_version = 2
