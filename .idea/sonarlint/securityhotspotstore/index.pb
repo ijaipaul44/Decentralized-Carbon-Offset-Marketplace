@@ -11,3 +11,5 @@ Q
 !tests/offset-verification.test.ts,1/5/15b7b72727fe47d5e605286f31df73188d326898
 F
 contracts/trading.clar,7/e/7e480343699ccc9440a9b0956f23152743eb78b7
+E
+tests/trading.test.ts,f/0/f0756157ede790959f86d7b51ff4517a088985f5
